@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793495384023,
+      "tag": "0000_sparkling_shape",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793495569551,
+      "tag": "0001_curly_the_captain",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793495615907,
+      "tag": "0002_rapid_mindworm",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE `refresh_jobs` ADD `catalog_key` text;
